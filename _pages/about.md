@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-Hey, I'm Victoria! I am a PhD student in Physics at MIT, where I am part of Prof. Marin Soljačić's group. I completed my A.B. in Physics at Harvard University.
+Hey, I'm Victoria! I am a PhD student in Physics at MIT, where I am part of [Prof. Marin Soljačić's group](https://www.mit.edu/~soljacic/). I completed my A.B. in Physics at Harvard University.
 
 My research interests span condensed matter physics, photonics, and AI for science. I am currently interested in localization phenomena in quantum noise and in using machine learning to search for topological phases of matter.
 
