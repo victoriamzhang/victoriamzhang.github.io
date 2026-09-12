@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Headshot 1 Cropped.jpg
   image_circular: false
   more_info:
 
